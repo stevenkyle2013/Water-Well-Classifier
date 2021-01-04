@@ -1,7 +1,7 @@
 # Water-Well-Project
 
 ### Problem Description
-Tanzania has a shortage of clean water that can be provided to its people. The population of Tanzania is about 56 million and about 4 million citizens do not have acess to clean water.
+Tanzania has a shortage of clean water that can be provided to its people. The population of Tanzania is about 56 million and about 4 million citizens do not have access to clean water.
 
 The goal of this project is to create a model that can accurately predict if a well is functional or not. This model can then be used to help improve maintenance operations all across Tanzania.
 
@@ -25,7 +25,7 @@ Snapshot of Raw Data
 
 ### Final Model used
 Random Forest
-<insert picture of model output>
+<img src="https://github.com/stevenkyle2013/Water-Well-Project/blob/main/Pictures/FinalRandomForestModel.png" width="500">
 0 indicates functional
 1 indicates functional needs repair
 2 indicates nonfunctional
