@@ -25,7 +25,9 @@ Snapshot of Raw Data
 
 ### Final Model used
 Random Forest
+
 <img src="https://github.com/stevenkyle2013/Water-Well-Project/blob/main/Pictures/FinalRandomForestModel.png" width="500">
+
 0 indicates functional
 1 indicates functional needs repair
 2 indicates nonfunctional
