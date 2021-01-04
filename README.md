@@ -16,12 +16,12 @@ Packages used
 Snapshot of Raw Data
 - 59,400 wells
 - 40 features
- - 6 continuous
- - 34 categorical
+  - 6 continuous
+  - 34 categorical
 - Target variables
- - functional (32,259)
- - non functional (22,824)
- - functional needs repair (4,317)
+  - functional (32,259)
+  - non functional (22,824)
+  - functional needs repair (4,317)
 
 ### Final Model used
 Random Forest
