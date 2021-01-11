@@ -23,14 +23,23 @@ Snapshot of Raw Data
   - non functional (22,824)
   - functional needs repair (4,317)
 
+### After EDA
+- 57,588 wells
+- 27 features
+  - 6 continuous
+  - 21 categorical
+- 1,236 features after creating dummy variables
+
 ### Final Model used
 Random Forest
 
-<img src="https://github.com/stevenkyle2013/Water-Well-Project/blob/main/Pictures/FinalRandomForestModel.png" width="500">
+<img src="https://github.com/stevenkyle2013/Water-Well-Project/blob/main/Pictures/FinalModel.png" width="500">
 
 0 indicates functional
 1 indicates functional needs repair
 2 indicates nonfunctional
 
-### Summary
-The most effective model that was used was Random Forest. It had an accuracy of 79% and was able to recall functional wells at 85% and nonfunctional wells at 78%.
+### Summary and future work
+The most effective model that was used was Random Forest. The final model had an accuracy of 80.5% and was able to recall functional wells by 89% and nonfunctional wells by 77%.
+
+I would like to do some more EDA on this project to improve the model. Since Hyper-parameter tuning did not affect the model that much, I believe the best way to improve the model is to do some more data pre-processing. 
