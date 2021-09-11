@@ -37,9 +37,11 @@ Group markers of functional wells
 
 
 Group markers of wells that need repair
+
 <img src="https://github.com/stevenkyle2013/Water-Well-Project/blob/main/Pictures/NeedsRepairGroupMarker.png" width="500">
 
 Group markers of nonfunctional wells
+
 <img src="https://github.com/stevenkyle2013/Water-Well-Project/blob/main/Pictures/NonFunctionalGroupMarker.png" width="500">
 
 
