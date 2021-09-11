@@ -30,6 +30,19 @@ Snapshot of Raw Data
   - 21 categorical
 - 1,236 features after creating dummy variables
 
+### Map of markers/group markers of the types of wells
+Group markers of functional wells
+
+<img src="https://github.com/stevenkyle2013/Water-Well-Project/blob/main/Pictures/FunctionalGroupMarker.png" width="500">
+
+
+Group markers of wells that need repair
+<img src="https://github.com/stevenkyle2013/Water-Well-Project/blob/main/Pictures/NeedsRepairGroupMarker.png" width="500">
+
+Group markers of nonfunctional wells
+<img src="https://github.com/stevenkyle2013/Water-Well-Project/blob/main/Pictures/NonFunctionalGroupMarker.png" width="500">
+
+
 ### Final Model used
 Random Forest
 
@@ -42,4 +55,4 @@ Random Forest
 ### Summary and future work
 The most effective model that was used was Random Forest. The final model had an accuracy of 80.5% and was able to recall functional wells by 89% and nonfunctional wells by 77%.
 
-I would like to do some more EDA on this project to improve the model. Since Hyper-parameter tuning did not affect the model that much, I believe the best way to improve the model is to do some more data pre-processing. 
+I would like to do some more EDA on this project to improve the model. Since Hyper-parameter tuning did not affect the model that much, I believe the best way to improve the model is to do some more data pre-processing.
